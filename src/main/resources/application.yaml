@@ -1,7 +1,7 @@
 spring:
   data:
     redis:
-      host: api-quote-calculator-redis-test.redis.cache.windows.net
+      host: kp1-hfh6amhhcefvg9a5.canadacentral-01.azurewebsites.net
       port: 6380
       username: c2e0ee3b-fc80-4e0f-ae10-770a0858e7dd
       ssl:
