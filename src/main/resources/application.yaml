@@ -3,7 +3,7 @@ spring:
     redis:
       host: api-quote-calculator-redis-test.redis.cache.windows.net
       port: 6380
-      username: 13feedc4-37e7-453e-902b-4309b3718a7f
+      username: c2e0ee3b-fc80-4e0f-ae10-770a0858e7dd
       ssl:
         enabled: true
       azure:
